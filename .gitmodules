@@ -1,3 +1,6 @@
 [submodule "malloDroid"]
 	path = malloDroid
 	url = ./malloDroid
+[submodule "jni_ghidra"]
+	path = jni_ghidra
+	url = ./jni_ghidra
