@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/NDJSec/DroidAnalysis">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,12 +38,12 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NDJSec/DroidAnalysis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NDJSec/DroidAnalysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NDJSec/DroidAnalysis/issues">Request Feature</a>
   </p>
 </div>
 
@@ -91,6 +91,7 @@ DroidAnalysis is a compilation of various tools, Android RE. This repo, is set u
 ### Built With
 
 * [![Java][Java]][Java-url]
+* [![Python][Python]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,5 +200,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicolas-janis/
 [product-screenshot]: images/screenshot.png
-[Java]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Java-url]: https://nextjs.org/
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/en/
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
+
