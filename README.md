@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">DroidAnalysis</h3>
 
   <p align="center">
-    project_description
+    Compilation of various analysis tools for Android RE
     <br />
     <a href="https://github.com/NDJSec/DroidAnalysis"><strong>Explore the docs »</strong></a>
     <br />
@@ -184,16 +184,16 @@ Project Link: [https://github.com/NDJSec/DroidAnalysis](https://github.com/NDJSe
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NDJSec/DroidAnalysis.svg?style=for-the-badge
+[contributors-url]: https://github.com/NDJSec/DroidAnalysis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NDJSec/DroidAnalysis.svg?style=for-the-badge
+[forks-url]: https://github.com/NDJSec/DroidAnalysis/network/members
+[stars-shield]: https://img.shields.io/github/stars/NDJSec/DroidAnalysis.svg?style=for-the-badge
+[stars-url]: https://github.com/NDJSec/DroidAnalysis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NDJSec/DroidAnalysis.svg?style=for-the-badge
+[issues-url]: https://github.com/NDJSec/DroidAnalysis/issues
+[license-shield]: https://img.shields.io/github/license/NDJSec/DroidAnalysis.svg?style=for-the-badge
+[license-url]: https://github.com/NDJSec/DroidAnalysis/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicolas-janis/
 [product-screenshot]: images/screenshot.png
