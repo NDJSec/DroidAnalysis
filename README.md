@@ -74,8 +74,10 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+<br>
 
-
+## Android Reverse Engineering PDF [HERE](https://github.com/NDJSec/Android-Reverse-Engineering)
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -112,6 +114,9 @@ In order to get started, follow the installation instructions below. Note, insta
     cd DroidAnalysis
     git submodule update --init --recursive
 ```
+
+* [jni_ghidra](https://github.com/NDJSec/jni_ghidra)
+* [mallodroid](https://github.com/NDJSec/mallodroid)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
