@@ -168,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 NDJSec - [@NicolasJanis1](https://twitter.com/NicolasJanis1) - nicolas.d.janis@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/NDJSec/DroidAnalysis](https://github.com/NDJSec/DroidAnalysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,9 +177,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [FindJNIMethods](https://github.com/Ayrx/FindNativeJNIMethods/tree/master)
-* [Jadx](https://github.com/skylot/jadx)
-* [Ghidra](https://ghidra-sre.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
