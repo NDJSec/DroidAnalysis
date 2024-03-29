@@ -99,13 +99,19 @@ DroidAnalysis is a compilation of various tools, Android RE. This repo, is set u
 
 <!-- GETTING STARTED -->
 ## Getting Started
-!TODO
+In order to get started, follow the installation instructions below. Note, installation for each tool, is linked at the bottom of the Installation section.
 
 ### Prerequisites
-!TODO
+* Ghidra 11.0 or higher (jni-ghidra)
+* Python3 
+* Androguard 4.1.1 or higher (mallodroid)
 
 ### Installation
-!TODO
+```bash
+    git clone https://github.com/NDJSec/DroidAnalysis.git
+    cd DroidAnalysis
+    git submodule update --init --recursive
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
