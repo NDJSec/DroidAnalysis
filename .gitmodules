@@ -1,6 +1,3 @@
-[submodule "jni_ghidra"]
-	path = jni_ghidra
-	url = ./jni_ghidra
 [submodule "mallodroid"]
 	path = mallodroid
 	url = git@github.com:NDJSec/mallodroid.git
