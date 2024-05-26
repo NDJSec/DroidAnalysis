@@ -4,3 +4,6 @@
 [submodule "jni_ghidra"]
 	path = jni_ghidra
 	url = git@github.com:NDJSec/jni_ghidra.git
+[submodule "AndroSleuth"]
+	path = AndroSleuth
+	url = git@github.com:NDJSec/AndroSleuth.git
